@@ -1,0 +1,13 @@
+feedparser
+transformers
+sentence-transformers
+torch
+pdfplumber
+PyPDF2
+faiss-cpu
+scikit-learn
+gradio
+wordcloud
+matplotlib
+markdown2
+reportlab

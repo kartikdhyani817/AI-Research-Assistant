@@ -12,8 +12,11 @@ Runs on Google Colab or locally.
 
 
 Features & Phases
-1. Phase 1→ Topic search + PDF summarization ✅  
-2. Phase 2 → Q&A chatbot for PDFs (RAG)  
-3. Phase 3 → Multi-paper comparison + citation extraction  
-4. Phase 4 → Frontend download + visualization features  
+1. Phase 1 - Topic search + PDF summarization ✅  
+2. Phase 2 - Q&A chatbot for PDFs (RAG)  
+3. Phase 3 - Multi-paper comparison + citation extraction  
+4. Phase 4 - Frontend download + visualization features  
 
+agents      - summarizer, Q&A, comparison logic
+utils       - arXiv search, PDF parsing, embeddings
+ui       - Gradio interface
